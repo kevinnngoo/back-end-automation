@@ -3,6 +3,7 @@
 This repository contains the backend code for the Automated Job Application System, responsible for handling data processing, managing the database, and automating job applications. It interacts with the frontend to provide job search, application submission, and tracking functionalities.
 
 ## 📜 Table of Contents
+
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -18,6 +19,7 @@ This repository contains the backend code for the Automated Job Application Syst
 ### Project Overview
 
 The **Back-End Automation** component is part of an automated job application system that performs the following key tasks:
+
 - Searches for job postings based on user-defined criteria.
 - Submits applications automatically using form autofill.
 - Manages a database to store job application statuses, user preferences, and resume templates.
@@ -47,3 +49,4 @@ To set up the backend project locally:
    ```bash
    git clone https://github.com/kevinnngoo/back-end-automation.git
    cd back-end-automation
+   ```
